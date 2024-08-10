@@ -247,8 +247,6 @@ http://188.113.190.15/214/video.m3u8
 http://188.113.190.15/76/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Красная линия
 http://188.113.190.15/61/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Кто есть кто
-http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кухня ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Любимое кино
@@ -381,7 +379,5 @@ http://188.113.190.15/158/video.m3u8
 http://188.113.190.15/101/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Viasat Sport
 http://188.113.190.15/34/video.m3u8
-
-http://188.113.190.15/105/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",FightBox
 http://188.113.190.15/147/video.m3u8
