@@ -17,20 +17,6 @@ https://p8.stirilepe.net/antena3hd/tracks-v1a1/mono.m3u8
 https://p8.stirilepe.net/euronewsrosd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 group-title="All",Chisinau
-http://212.0.215.115/IPcam1/mpegts
-#EXTINF:-1 group-title="All",Cahul
-http://212.0.215.115/IPcam_Cahul/mpegts
-#EXTINF:-1 group-title="All",Balti
-http://212.0.215.115/IPcam_Balti/mpegts
-#EXTINF:-1 group-title="All",Soroca
-http://212.0.215.115/IPcam_Soroca/mpegts
-#EXTINF:-1 group-title="All",Ungheni
-http://212.0.215.115/Unghenilive/mpegts
-#EXTINF:-1 group-title="All",Orhei Land
-http://212.0.215.115/Orheilive/mpegts
-#EXTINF:-1 group-title="All",Donduseni
-http://212.0.215.115/Dondusenilive/mpegts  
 #EXTINF:-1 group-title="МОЛДОВА",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 group-title="МОЛДОВА",NTS Moldova
