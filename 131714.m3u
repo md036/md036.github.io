@@ -219,8 +219,6 @@ http://188.113.190.15/55/video.m3u8
 http://188.113.190.15/70/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Зоопарк
 http://188.113.190.15/46/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Индия
-http://188.113.190.15/51/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",КВН ТВ
 http://188.113.190.15/307/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Кинеко
@@ -381,41 +379,9 @@ http://188.113.190.15/137/video.m3u8
 http://188.113.190.15/158/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",МузТВ
 http://188.113.190.15/101/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",KHL
-http://188.113.190.15/80/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",KHL HD
-http://188.113.190.15/116/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",MMA-TV.COM HD
-http://188.113.190.15/305/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",Viasat Sport
 http://188.113.190.15/34/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч Премьер
-http://188.113.190.15/103/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч ТВ
-http://188.113.190.15/6/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч ТВ HD
-http://188.113.190.15/167/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Старт
-http://188.113.190.15/127/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Арена
-http://188.113.190.15/97/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Арена HD
-http://188.113.190.15/325/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Боец
-http://188.113.190.15/126/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Игра
-http://188.113.190.15/142/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Игра HD
-http://188.113.190.15/326/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Страна
-http://188.113.190.15/95/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Футбол 1
-http://188.113.190.15/175/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Футбол 2
-http://188.113.190.15/176/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Матч! Футбол 3
-http://188.113.190.15/177/video.m3u8
-#EXTINF:-1 group-title="СКТ ТВ (VPN)",Футбол
+
 http://188.113.190.15/105/video.m3u8
 #EXTINF:-1 group-title="СКТ ТВ (VPN)",FightBox
 http://188.113.190.15/147/video.m3u8
