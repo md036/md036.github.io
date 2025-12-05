@@ -1,226 +1,247 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Terms of Service - Funny Pictures (Android & iOS)</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      color: #1c1c1e;
-      background-color: #f5f5f7;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #0b3d91;
-      color: white;
-      padding: 32px 16px;
-      text-align: center;
-    }
-    main {
-      max-width: 960px;
-      margin: 0 auto;
-      background: white;
-      padding: 32px;
-      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
-      border-radius: 16px;
-      margin-top: -48px;
-      margin-bottom: 48px;
-    }
-    h1, h2, h3 {
-      color: #ff6f61;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a {
-      color: #0b3d91;
-    }
-    .meta {
-      font-size: 0.95rem;
-      color: #3a3a3c;
-      margin-top: 8px;
-    }
-    .section-divider {
-      border-top: 1px solid #e5e5ea;
-      margin: 40px 0;
-    }
-    .callout {
-      background-color: #fff4e6;
-      border-left: 4px solid #ff6f61;
-      padding: 16px;
-      border-radius: 12px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Terms of Service for FunnyPictures - Funny Memes & Jokes App">
+    <title>Terms of Service - FunnyPictures</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .legal-hero {
+            background: var(--gradient-dark);
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            color: white;
+        }
+        .legal-hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            color: white;
+            -webkit-text-fill-color: white;
+        }
+        .legal-hero .meta {
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+        .legal-content {
+            max-width: 800px;
+            margin: -3rem auto 4rem;
+            background: white;
+            border-radius: 24px;
+            padding: 3rem;
+            box-shadow: 0 8px 40px rgba(0,0,0,0.1);
+        }
+        .legal-content h2 {
+            color: var(--dark);
+            font-size: 1.5rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--primary);
+        }
+        .legal-content h2:first-child {
+            margin-top: 0;
+        }
+        .legal-content h3 {
+            color: var(--dark);
+            font-size: 1.1rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+        .legal-content p {
+            color: var(--gray);
+            margin-bottom: 1rem;
+        }
+        .legal-content ul {
+            color: var(--gray);
+            margin-bottom: 1rem;
+            padding-left: 1.5rem;
+        }
+        .legal-content li {
+            margin-bottom: 0.5rem;
+        }
+        .legal-content a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+        .legal-content a:hover {
+            text-decoration: underline;
+        }
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 1rem;
+            opacity: 0.9;
+            transition: opacity 0.3s;
+        }
+        .back-link:hover {
+            opacity: 1;
+        }
+        .callout {
+            background: linear-gradient(135deg, rgba(255, 107, 53, 0.1) 0%, rgba(255, 209, 102, 0.1) 100%);
+            border-left: 4px solid var(--primary);
+            padding: 1rem 1.5rem;
+            border-radius: 0 12px 12px 0;
+            margin: 1.5rem 0;
+        }
+        .callout strong {
+            color: var(--primary);
+        }
+        .legal-footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--light);
+        }
+        .legal-footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Terms of Service</h1>
-    <p>Funny Pictures (Android &amp; iOS)</p>
-    <p class="meta">Effective Date: January 1, 2025 &nbsp;|&nbsp; Last Updated: October 28, 2025</p>
-  </header>
-  <main>
-    <section>
-      <h2>1. Agreement to Terms</h2>
-      <p>These Terms of Service ("Terms") constitute a legally binding agreement made between you and Freedom Devs Inc. ("Company," "we," "us," or "our"), governing your access to and use of the Funny Pictures mobile applications on Android and iOS, associated subscription services, websites, and any related offerings (collectively, the "App"). By installing, accessing, or using the App, you agree that you have read, understood, and agree to be bound by these Terms.</p>
-      <div class="callout">
-        <strong>Important:</strong> If you do not agree with these Terms, you must uninstall the App and discontinue its use immediately.
-      </div>
+    <!-- Navigation -->
+    <nav id="navbar" class="scrolled">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">😂</div>
+                <span class="logo-text">FunnyPictures</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html#features">Features</a></li>
+                <li><a href="index.html#download">Download</a></li>
+                <li><a href="index.html#faq">FAQ</a></li>
+            </ul>
+            <div class="nav-cta">
+                <a href="https://apps.apple.com/us/app/funnypics-funny-memes-jokes/id6755989494" target="_blank" class="btn btn-primary">Download Free</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="legal-hero">
+        <a href="index.html" class="back-link">← Back to Home</a>
+        <h1>Terms of Service</h1>
+        <p>Funny Pictures (Android & iOS)</p>
+        <p class="meta">Effective Date: January 1, 2025 | Last Updated: October 28, 2025</p>
     </section>
 
-    <div class="section-divider"></div>
+    <!-- Content -->
+    <main class="legal-content">
+        <h2>1. Agreement to Terms</h2>
+        <p>These Terms of Service ("Terms") constitute a legally binding agreement made between you and Freedom Devs Inc. ("Company," "we," "us," or "our"), governing your access to and use of the Funny Pictures mobile applications on Android and iOS, associated subscription services, websites, and any related offerings (collectively, the "App"). By installing, accessing, or using the App, you agree that you have read, understood, and agree to be bound by these Terms.</p>
+        <div class="callout">
+            <strong>Important:</strong> If you do not agree with these Terms, you must uninstall the App and discontinue its use immediately.
+        </div>
 
-    <section>
-      <h2>2. Eligibility & Age Restrictions</h2>
-      <ul>
-        <li>The App is intended for users aged 17 or older due to mature content.</li>
-        <li>By using the App, you represent and warrant that you meet the age requirement and have legal capacity to enter into these Terms.</li>
-        <li>Parents and guardians are responsible for monitoring the use of the App by minors.</li>
-      </ul>
-    </section>
+        <h2>2. Eligibility & Age Restrictions</h2>
+        <ul>
+            <li>The App is intended for users aged 17 or older due to mature content.</li>
+            <li>By using the App, you represent and warrant that you meet the age requirement and have legal capacity to enter into these Terms.</li>
+            <li>Parents and guardians are responsible for monitoring the use of the App by minors.</li>
+        </ul>
 
-    <div class="section-divider"></div>
+        <h2>3. Account Registration & Security</h2>
+        <ul>
+            <li>Some features may require creating an account or providing optional profile information.</li>
+            <li>You are responsible for safeguarding your login credentials and restricting access to your device(s).</li>
+            <li>You agree to notify us immediately of any unauthorized use of your account.</li>
+        </ul>
 
-    <section>
-      <h2>3. Account Registration & Security</h2>
-      <ul>
-        <li>Some features may require creating an account or providing optional profile information.</li>
-        <li>You are responsible for safeguarding your login credentials and restricting access to your device(s).</li>
-        <li>You agree to notify us immediately of any unauthorized use of your account.</li>
-      </ul>
-    </section>
+        <h2>4. Premium Subscriptions & In-App Purchases</h2>
+        <ul>
+            <li>Premium subscriptions and in-app purchases are processed by the platform vendor associated with your device (Google Play Billing for Android or Apple's App Store for iOS).</li>
+            <li>Subscription pricing, duration, and trial eligibility are displayed within the App before purchase.</li>
+            <li>Payments are charged to your Google Play or Apple ID account at confirmation of purchase and automatically renew until cancelled.</li>
+            <li>Manage or cancel subscriptions via <strong>Google Play Store > Payments & subscriptions</strong> (Android) or <strong>Settings > Apple ID > Subscriptions</strong> (iOS) at least 24 hours before the renewal date.</li>
+            <li>No refunds or credits are provided for partial subscription periods, except as required by law or by Google's or Apple's policies.</li>
+        </ul>
 
-    <div class="section-divider"></div>
+        <h2>5. App Content & Intellectual Property</h2>
+        <ul>
+            <li>All text, images, graphics, UI components, and other content provided by us are the exclusive property of Freedom Devs Inc. or its licensors.</li>
+            <li>You receive a limited, non-transferable, non-exclusive license to access and use the App for personal, non-commercial purposes.</li>
+            <li>You may not copy, modify, distribute, sell, or lease any part of the App without our prior written consent.</li>
+        </ul>
 
-    <section>
-      <h2>4. Premium Subscriptions &amp; In-App Purchases</h2>
-      <ul>
-        <li>Premium subscriptions and in-app purchases are processed by the platform vendor associated with your device (Google Play Billing for Android or Apple’s App Store for iOS).</li>
-        <li>Subscription pricing, duration, and trial eligibility are displayed within the App before purchase.</li>
-        <li>Payments are charged to your Google Play or Apple ID account at confirmation of purchase and automatically renew until cancelled.</li>
-        <li>Manage or cancel subscriptions via <strong>Google Play Store &gt; Payments &amp; subscriptions</strong> (Android) or <strong>Settings &gt; Apple ID &gt; Subscriptions</strong> (iOS) at least 24 hours before the renewal date.</li>
-        <li>No refunds or credits are provided for partial subscription periods, except as required by law or by Google’s or Apple’s policies.</li>
-      </ul>
-    </section>
+        <h2>6. User-Generated Content</h2>
+        <p>The App allows you to submit content such as comments, usernames, or images. By uploading or sharing content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, adapt, publish, and display that content to operate and improve the App across Android and iOS platforms.</p>
+        <ul>
+            <li>You are solely responsible for the content you submit and must ensure it complies with applicable laws and our policies.</li>
+            <li>Prohibited content includes offensive, harmful, defamatory, or illegal material; content that violates third-party rights; and spam or deceptive content.</li>
+            <li>We reserve the right to remove or moderate any content that violates these Terms.</li>
+        </ul>
 
-    <div class="section-divider"></div>
+        <h2>7. Acceptable Use Policy</h2>
+        <p>You agree not to:</p>
+        <ul>
+            <li>Use the App for any unlawful purpose or in violation of any local, national, or international law.</li>
+            <li>Harass, threaten, or defame other users.</li>
+            <li>Attempt to gain unauthorized access to the App, user accounts, or computer systems.</li>
+            <li>Introduce viruses, malware, or other malicious code.</li>
+            <li>Reverse engineer, decompile, or disassemble any part of the App.</li>
+        </ul>
 
-    <section>
-      <h2>5. App Content & Intellectual Property</h2>
-      <ul>
-        <li>All text, images, graphics, UI components, and other content provided by us are the exclusive property of Freedom Devs Inc. or its licensors.</li>
-        <li>You receive a limited, non-transferable, non-exclusive license to access and use the App for personal, non-commercial purposes.</li>
-        <li>You may not copy, modify, distribute, sell, or lease any part of the App without our prior written consent.</li>
-      </ul>
-    </section>
+        <h2>8. Third-Party Services & Advertising</h2>
+        <ul>
+            <li>The App integrates third-party services such as Firebase, Google AdMob, and other SDKs outlined in our Privacy Policy.</li>
+            <li>Platform-specific functionality (e.g., Google Play Services, Apple Push Notification service) is provided by the respective vendor and may require additional permissions.</li>
+            <li>Your use of those services may be subject to additional terms and privacy policies provided by the respective third parties.</li>
+            <li>Advertising content may be personalized using device identifiers, subject to your privacy settings.</li>
+        </ul>
 
-    <div class="section-divider"></div>
+        <h2>9. Availability, Updates & Support</h2>
+        <ul>
+            <li>We strive to keep the App available, but we do not guarantee uninterrupted or error-free operation.</li>
+            <li>We may release updates, upgrades, or maintenance releases through the Google Play Store and Apple App Store at our discretion.</li>
+            <li>Support requests can be submitted via the in-app contact form or by emailing <a href="mailto:happypicsmd036@gmail.com">happypicsmd036@gmail.com</a>.</li>
+        </ul>
 
-    <section>
-      <h2>6. User-Generated Content</h2>
-      <p>The App allows you to submit content such as comments, usernames, or images. By uploading or sharing content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, adapt, publish, and display that content to operate and improve the App across Android and iOS platforms.</p>
-      <ul>
-        <li>You are solely responsible for the content you submit and must ensure it complies with applicable laws and our policies.</li>
-        <li>Prohibited content includes offensive, harmful, defamatory, or illegal material; content that violates third-party rights; and spam or deceptive content.</li>
-        <li>We reserve the right to remove or moderate any content that violates these Terms.</li>
-      </ul>
-    </section>
+        <h2>10. Termination</h2>
+        <ul>
+            <li>We may suspend or terminate your access to the App if you violate these Terms or engage in fraudulent or abusive activity.</li>
+            <li>You may stop using the App at any time by uninstalling it from your device.</li>
+            <li>Upon termination, rights granted to you under these Terms will immediately cease.</li>
+        </ul>
 
-    <div class="section-divider"></div>
+        <h2>11. Disclaimers & Limitation of Liability</h2>
+        <ul>
+            <li>The App is provided on an "as is" and "as available" basis without warranties of any kind.</li>
+            <li>To the maximum extent permitted by law, we disclaim all warranties, whether express or implied, including merchantability, fitness for a particular purpose, and non-infringement.</li>
+            <li>In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of the App.</li>
+        </ul>
 
-    <section>
-      <h2>7. Acceptable Use Policy</h2>
-      <p>You agree not to:</p>
-      <ul>
-        <li>Use the App for any unlawful purpose or in violation of any local, national, or international law.</li>
-        <li>Harass, threaten, or defame other users.</li>
-        <li>Attempt to gain unauthorized access to the App, user accounts, or computer systems.</li>
-        <li>Introduce viruses, malware, or other malicious code.</li>
-        <li>Reverse engineer, decompile, or disassemble any part of the App.</li>
-      </ul>
-    </section>
+        <h2>12. Indemnification</h2>
+        <p>You agree to defend, indemnify, and hold harmless Freedom Devs Inc., its affiliates, officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorney fees) arising from or related to your use of the App, your content, or your violation of these Terms.</p>
 
-    <div class="section-divider"></div>
+        <h2>13. Governing Law & Dispute Resolution</h2>
+        <ul>
+            <li>These Terms are governed by and construed in accordance with the laws of the jurisdiction where Freedom Devs Inc. is incorporated, without regard to conflict of laws principles.</li>
+            <li>Any disputes shall be resolved through good-faith negotiations. If unresolved, disputes may be submitted to binding arbitration or the competent courts in that jurisdiction, unless otherwise required by law.</li>
+        </ul>
 
-    <section>
-      <h2>8. Third-Party Services & Advertising</h2>
-      <ul>
-        <li>The App integrates third-party services such as Firebase, Google AdMob, and other SDKs outlined in our Privacy Policy.</li>
-        <li>Platform-specific functionality (e.g., Google Play Services, Apple Push Notification service) is provided by the respective vendor and may require additional permissions.</li>
-        <li>Your use of those services may be subject to additional terms and privacy policies provided by the respective third parties.</li>
-        <li>Advertising content may be personalized using device identifiers, subject to your privacy settings.</li>
-      </ul>
-    </section>
+        <h2>14. Changes to These Terms</h2>
+        <p>We may update these Terms from time to time. When we do, we will revise the "Last Updated" date at the top of this page. Continued use of the App after changes become effective constitutes acceptance of the revised Terms.</p>
 
-    <div class="section-divider"></div>
+        <h2>15. Contact Information</h2>
+        <ul>
+            <li><strong>Company:</strong> Freedom Devs Inc.</li>
+            <li><strong>Email:</strong> <a href="mailto:happypicsmd036@gmail.com">happypicsmd036@gmail.com</a></li>
+            <li><strong>Support:</strong> Via in-app contact form or email</li>
+        </ul>
+    </main>
 
-    <section>
-      <h2>9. Availability, Updates & Support</h2>
-      <ul>
-        <li>We strive to keep the App available, but we do not guarantee uninterrupted or error-free operation.</li>
-        <li>We may release updates, upgrades, or maintenance releases through the Google Play Store and Apple App Store at our discretion.</li>
-        <li>Support requests can be submitted via the in-app contact form or by emailing <a href="mailto:happypicsmd036@gmail.com">happypicsmd036@gmail.com</a>.</li>
-      </ul>
-    </section>
+    <!-- Footer -->
+    <div class="legal-footer">
+        <p><a href="index.html">← Back to FunnyPictures</a> | <a href="privacy-policy.html">Privacy Policy</a></p>
+        <p style="margin-top: 1rem; color: var(--gray); font-size: 0.875rem;">&copy; <span class="js-current-year">2024</span> FunnyPictures. All rights reserved.</p>
+    </div>
 
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>10. Termination</h2>
-      <ul>
-        <li>We may suspend or terminate your access to the App if you violate these Terms or engage in fraudulent or abusive activity.</li>
-        <li>You may stop using the App at any time by uninstalling it from your device.</li>
-        <li>Upon termination, rights granted to you under these Terms will immediately cease.</li>
-      </ul>
-    </section>
-
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>11. Disclaimers & Limitation of Liability</h2>
-      <ul>
-        <li>The App is provided on an "as is" and "as available" basis without warranties of any kind.</li>
-        <li>To the maximum extent permitted by law, we disclaim all warranties, whether express or implied, including merchantability, fitness for a particular purpose, and non-infringement.</li>
-        <li>In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of the App.</li>
-      </ul>
-    </section>
-
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>12. Indemnification</h2>
-      <p>You agree to defend, indemnify, and hold harmless Freedom Devs Inc., its affiliates, officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorney fees) arising from or related to your use of the App, your content, or your violation of these Terms.</p>
-    </section>
-
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>13. Governing Law & Dispute Resolution</h2>
-      <ul>
-        <li>These Terms are governed by and construed in accordance with the laws of the jurisdiction where Freedom Devs Inc. is incorporated, without regard to conflict of laws principles.</li>
-        <li>Any disputes shall be resolved through good-faith negotiations. If unresolved, disputes may be submitted to binding arbitration or the competent courts in that jurisdiction, unless otherwise required by law.</li>
-      </ul>
-    </section>
-
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>14. Changes to These Terms</h2>
-      <p>We may update these Terms from time to time. When we do, we will revise the "Last Updated" date at the top of this page. Continued use of the App after changes become effective constitutes acceptance of the revised Terms.</p>
-    </section>
-
-    <div class="section-divider"></div>
-
-    <section>
-      <h2>15. Contact Information</h2>
-      <ul>
-        <li><strong>Company:</strong> Freedom Devs Inc.</li>
-        <li><strong>Email:</strong> <a href="mailto:happypicsmd036@gmail.com">happypicsmd036@gmail.com</a></li>
-        <li><strong>Support:</strong> Via in-app contact form or email</li>
-      </ul>
-    </section>
-  </main>
+    <script src="script.js"></script>
 </body>
 </html>

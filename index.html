@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FunnyPictures - Discover the internet's funniest pictures and memes. Daily jokes, hilarious memes, viral pics and funny quotes.">
+    <meta name="keywords" content="funny pictures, memes, humor, comedy, entertainment, viral, trending, jokes, laugh">
+    <title>FunnyPictures - Memes & Humor | Daily Funny Pictures App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">
+                <div class="logo-icon">😂</div>
+                <span class="logo-text">FunnyPictures</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#features">Features</a></li>
+                <li><a href="#how-it-works">How It Works</a></li>
+                <li><a href="#testimonials">Reviews</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+            <div class="nav-right">
+                <div class="lang-switcher">
+                    <button class="lang-btn" aria-label="Select Language">
+                        <span class="lang-current">EN</span>
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M7 10l5 5 5-5z"/></svg>
+                    </button>
+                    <div class="lang-dropdown">
+                        <a href="index.html" class="active">🇺🇸 English</a>
+                        <a href="de/index.html">🇩🇪 Deutsch</a>
+                        <a href="it/index.html">🇮🇹 Italiano</a>
+                        <a href="ru/index.html">🇷🇺 Русский</a>
+                    </div>
+                </div>
+                <a href="#download" class="btn btn-primary nav-cta-btn">Download Free</a>
+            </div>
+            <div class="mobile-menu-btn" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu">
+        <ul class="mobile-nav-links">
+            <li><a href="#features">Features</a></li>
+            <li><a href="#how-it-works">How It Works</a></li>
+            <li><a href="#testimonials">Reviews</a></li>
+            <li><a href="#faq">FAQ</a></li>
+        </ul>
+        <div class="mobile-lang-switcher">
+            <a href="index.html" class="active">🇺🇸 EN</a>
+            <a href="de/index.html">🇩🇪 DE</a>
+            <a href="it/index.html">🇮🇹 IT</a>
+            <a href="ru/index.html">🇷🇺 RU</a>
+        </div>
+        <a href="#download" class="btn btn-primary btn-block">Download Free</a>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span>NEW</span> Now available on iOS & Android
+                </div>
+                <h1>Your Daily Dose of Laughter</h1>
+                <p class="hero-subtitle">Discover the internet's funniest pictures and memes, curated for quality and guaranteed to make you laugh. Join thousands sharing smiles daily!</p>
+                <div class="hero-cta">
+                    <a href="https://apps.apple.com/us/app/funnypics-funny-memes-jokes/id6755989494" target="_blank" class="btn btn-primary btn-lg">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+                        App Store
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=free.md036.funny_pics" target="_blank" class="btn btn-dark btn-lg">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 01-.61-.92V2.734a1 1 0 01.609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 010 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 8.99l-2.302 2.302-8.634-8.634z"/></svg>
+                        Google Play
+                    </a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">1M+</span>
+                        <span class="stat-label">Downloads</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">4.8</span>
+                        <span class="stat-label">App Rating</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">50K+</span>
+                        <span class="stat-label">Daily Memes</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="phone-mockup">
+                    <div class="phone-screen">
+                        <div class="app-preview">
+                            <div class="preview-header">
+                                <span>😂 FunnyPictures</span>
+                            </div>
+                            <div class="preview-content">
+                                <div class="meme-card">🤣</div>
+                                <div class="meme-card">😹</div>
+                                <div class="meme-card">🎉</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="floating-emoji emoji-1">😂</div>
+                <div class="floating-emoji emoji-2">🤣</div>
+                <div class="floating-emoji emoji-3">😹</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">Features</span>
+                <h2>Everything You Need for Daily Laughs</h2>
+                <p>Packed with features designed to bring joy to your day</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Curated Content</h3>
+                    <p>Only the funniest content makes it to your feed. Quality over quantity, always.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📱</div>
+                    <h3>Smart Categories</h3>
+                    <p>Browse Humor, Memes, Viral, Trending and more. Find exactly what makes you laugh.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Lightning Fast</h3>
+                    <p>Smooth, intuitive interface with instant loading. No waiting, just laughing.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📤</div>
+                    <h3>Easy Sharing</h3>
+                    <p>Share to Instagram, Twitter, WhatsApp and more with just one tap.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">❤️</div>
+                    <h3>Save Favorites</h3>
+                    <p>Build your personal collection of the best memes for offline viewing.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔄</div>
+                    <h3>Daily Updates</h3>
+                    <p>Fresh content every day. Never run out of new things to laugh at.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works" id="how-it-works">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">How It Works</span>
+                <h2>Start Laughing in 3 Simple Steps</h2>
+            </div>
+            <div class="steps-grid">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>Download the App</h3>
+                    <p>Get FunnyPictures free from the App Store or Google Play</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>Browse & Discover</h3>
+                    <p>Explore categories or scroll the endless feed of funny content</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>Laugh & Share</h3>
+                    <p>Save your favorites and share the joy with friends</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Showcase -->
+    <section class="categories" id="categories">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">Categories</span>
+                <h2>Content for Every Sense of Humor</h2>
+            </div>
+            <div class="categories-grid">
+                <div class="category-card">
+                    <span class="category-emoji">😂</span>
+                    <h4>Humor</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">🐱</span>
+                    <h4>Animals</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">🔥</span>
+                    <h4>Trending</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">💼</span>
+                    <h4>Work Life</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">🎮</span>
+                    <h4>Gaming</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">💑</span>
+                    <h4>Relationships</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">🍕</span>
+                    <h4>Food</h4>
+                </div>
+                <div class="category-card">
+                    <span class="category-emoji">⭐</span>
+                    <h4>Celebrity</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials" id="testimonials">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">Reviews</span>
+                <h2>What Our Users Say</h2>
+            </div>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                    <p>"Best meme app I've ever used! The content is always fresh and actually funny."</p>
+                    <div class="testimonial-author">
+                        <span class="author-name">Sarah M.</span>
+                        <span class="author-platform">iOS User</span>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                    <p>"I love how easy it is to share memes with my friends. This app brightens my day!"</p>
+                    <div class="testimonial-author">
+                        <span class="author-name">Mike T.</span>
+                        <span class="author-platform">Android User</span>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                    <p>"Finally an app with quality content. No spam, just pure entertainment."</p>
+                    <div class="testimonial-author">
+                        <span class="author-name">Emma K.</span>
+                        <span class="author-platform">iOS User</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section class="download" id="download">
+        <div class="container">
+            <div class="download-content">
+                <h2>Ready to Start Laughing?</h2>
+                <p>Download FunnyPictures now and join millions of users who start their day with a smile. It's free!</p>
+                <div class="download-buttons">
+                    <a href="https://apps.apple.com/us/app/funnypics-funny-memes-jokes/id6755989494" target="_blank" class="store-btn">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+                        <div class="store-text">
+                            <span>Download on the</span>
+                            <strong>App Store</strong>
+                        </div>
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=free.md036.funny_pics" target="_blank" class="store-btn">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 01-.61-.92V2.734a1 1 0 01.609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 010 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.8 8.99l-2.302 2.302-8.634-8.634z"/></svg>
+                        <div class="store-text">
+                            <span>Get it on</span>
+                            <strong>Google Play</strong>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq" id="faq">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">FAQ</span>
+                <h2>Frequently Asked Questions</h2>
+            </div>
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <h4>Is FunnyPictures free to use?</h4>
+                    <p>Yes! FunnyPictures is completely free to download and use. We offer optional premium features for an ad-free experience.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>How often is new content added?</h4>
+                    <p>We add thousands of new funny pictures and memes every single day. You'll never run out of fresh content!</p>
+                </div>
+                <div class="faq-item">
+                    <h4>Can I save pictures for offline viewing?</h4>
+                    <p>Absolutely! Save your favorite memes to your collection and view them anytime, even without internet.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>Is the content appropriate for all ages?</h4>
+                    <p>We have content filters and categories to ensure you see content that matches your preferences. The app is rated 12+.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="#" class="logo">
+                        <div class="logo-icon">😂</div>
+                        <span class="logo-text">FunnyPictures</span>
+                    </a>
+                    <p>Your daily dose of laughter. Discover, enjoy, and share the best funny pictures and memes.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Twitter">𝕏</a>
+                        <a href="#" aria-label="Instagram">📷</a>
+                        <a href="#" aria-label="Facebook">f</a>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <h4>Product</h4>
+                    <ul>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#download">Download</a></li>
+                        <li><a href="#faq">FAQ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">Careers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="terms.html">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span class="js-current-year"></span> FunnyPictures. All rights reserved. Made with ❤️ for laughter lovers.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
