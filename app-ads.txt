@@ -1,3 +1,4 @@
+applovin.com, bc726bc31d0126574cafcde820afcc42, DIRECT
 google.com, pub-6482148346667186, DIRECT, f08c47fec0942fa0
 yandex.com, 105318809, DIRECT
 yango-ads.com, 105318809, DIRECT
