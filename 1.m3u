@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 group-title="All",Первый Канал HD
+https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
+#EXTINF:-1 group-title="All",Россия 1
+https://tinyurl.com/aleks-u-romki-2/205/index.m3u8
+#EXTINF:-1 group-title="All",Россия 1 +4
+https://tinyurl.com/aleks-u-romki-2/6022/index.m3u8
+#EXTINF:-1 group-title="All",Россия 1 +6
+https://tinyurl.com/aleks-u-romki-2/6038/index.m3u8
+#EXTINF:-1 group-title="All",Рен ТВ
+https://tinyurl.com/aleks-u-romki-2/128/index.m3u8
+#EXTINF:-1 group-title="All",НТВ
+https://tinyurl.com/aleks-u-romki-2/213/index.m3u8
+#EXTINF:-1 group-title="All",Звезда
+https://tinyurl.com/aleks-u-romki-2/544/index.m3u8
+#EXTINF:-1 group-title="All",RTVi
+https://tinyurl.com/aleks-u-romki-2/2086/index.m3u8
+#EXTINF:-1 group-title="All",ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 group-title="All",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 group-title="All",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 group-title="All",TV8 Moldova
+https://tinyurl.com/aleks-u-romki-2/2454/index.m3u8
+#EXTINF:-1 group-title="All",Jurnal TV
+https://tinyurl.com/aleks-u-romki-2/2446/index.m3u8
+#EXTINF:-1 group-title="All",PRO TV Chisinau
+https://tinyurl.com/aleks-u-romki-2/2456/index.m3u8
+#EXTINF:-1 group-title="All",N4
+https://tinyurl.com/aleks-u-romki-2/2460/index.m3u8
+#EXTINF:-1 group-title="All",TVR Moldova
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+#EXTINF:-1 group-title="All",Vocea Basarabiei
+https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+#EXTINF:-1 group-title="All",Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 group-title="All",Cinema 1
+https://tinyurl.com/aleks-u-romki-2/2447/index.m3u8
+#EXTINF:-1 group-title="All",Realitatea Live
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="All",Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 group-title="All",Privesc eu
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 group-title="All",Radio Moldova LIVE
+https://radiolive.trm.md/hls_rma/actualitati.m3u8
+#EXTINF:-1 group-title="All",Noroc TV
+https://live.noroc.tv/noroc/bitrate_480p.m3u8
+#EXTINF:-1 group-title="All",Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1 group-title="All",Tezaur Tv
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF:-1 group-title="All",Пятница
+https://tinyurl.com/aleks-u-romki-2/15472/index.m3u8
+#EXTINF:-1 group-title="All",ТВЦ
+https://tinyurl.com/aleks-u-romki-2/716/index.m3u8
+#EXTINF:-1 group-title="All",МИР
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
+#EXTINF:-1 group-title="All",Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="All",ТНТ
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="All",ТНТ4  😅😅👍
+https://tinyurl.com/aleks-u-romki-2/104/index.m3u8
+#EXTINF:-1 group-title="All",СТС
+https://tinyurl.com/aleks-u-romki-2/506/index.m3u8
+#EXTINF:-1 group-title="All",Перец
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 group-title="All",Че
+https://tinyurl.com/aleks-u-romki-2/9101/index.m3u8
+#EXTINF:-1 group-title="All",ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 group-title="All",СПАС
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="All",Красная Линия
+http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 group-title="All",Беларусь 1
+https://tinyurl.com/aleks-u-romki-2/2170/index.m3u8
+#EXTINF:-1 group-title="All",Беларусь 1
+https://tinyurl.com/aleks-u-romki-2/2174/index.m3u8
+#EXTINF:-1 group-title="All",СТВ Беларусь
+http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 group-title="All",ТРО
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="All",ОНТ Беларусь
+https://tinyurl.com/aleks-u-romki-2/2171/index.m3u8
+#EXTINF:-1 group-title="All",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="All",Белсат ТВ
+https://tinyurl.com/aleks-u-romki-2/10036/index.m3u8
+#EXTINF:-1 group-title="All",Первый Информационный Беларусь
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="All",8 Канал Европа
+http://distribution.tvigle.ru/30/hls/2016/03/18/,36011ab0-77eb-4bd6-aa06-e38b50f35e9e,b6bf5073-3fd4-4494-8ff9-484951a31732,.mp4.urlset/master.m3u8?expire=1759514866&key=vCVTRXhTj8_bUKn6b_TK_g&video_id=5358937&owner_id=9590&pad_id=9590&slink=v2&
+#EXTINF:-1 group-title="All",Известия
+http://195.18.23.20:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="All",МИР 24
+http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1 group-title="All",Россия 24
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="All",360
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="All",Настоящее Время
+https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="All",Шансон ТВ
+http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 group-title="All",ТНТ Musik
+http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
+#EXTINF:-1 tvg-id="SorTV.md" group-title="All",Sor TV (720p)
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 group-title="All",Chisinau
+http://212.0.215.115/IPcam1/mpegts
+#EXTINF:-1 group-title="All",Cahul
+http://212.0.215.115/IPcam_Cahul/mpegts
+#EXTINF:-1 group-title="All",Balti
+http://212.0.215.115/IPcam_Balti/mpegts
+#EXTINF:-1 group-title="All",Soroca
+http://212.0.215.115/IPcam_Soroca/mpegts
+#EXTINF:-1 group-title="All",Ungheni
+http://212.0.215.115/Unghenilive/mpegts
+#EXTINF:-1 group-title="All",Orhei Land
+http://212.0.215.115/Orheilive/mpegts
+#EXTINF:-1 group-title="All",Donduseni
+http://212.0.215.115/Dondusenilive/mpegts
+#EXTINF:-1 group-title="All",Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="All",Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="All",Парк
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+#EXTINF:-1 tvg-id="OrbitaTV.ua" group-title="All",Орбіта ТВ (360p) [Not 24/7]
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="All",TVA Черновцы
+https://m3u8.ott.blue/watch/117/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="All",Ми Украïna
+https://m3u8.ott.blue/watch/7655/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="All",Mi+ Украина
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="All",Перший Укр
+https://tva.in.ua/live/first.m3u8
+#EXTINF:-1 group-title="All",INTER +
+http://45.143.108.110:4200/INTER
+#EXTINF:-1 group-title="All",1+1
+https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="All",2+2
+http://cdn.admuspeh.my/8117/video.m3u8?token=y9bC3exhEUsxeTd3
+#EXTINF:-1 group-title="All",ICTV
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282471
+#EXTINF:-1 group-title="All",Espresso TV UA
+https://m3u8.ott.blue/watch/10/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 tvg-id="FREEDOM.ua" group-title="All",Freedom
+http://95.67.106.242/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="All",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="All",Драйв
+http://86.57.209.210/Drive/index.m3u8
+#EXTINF:-1 group-title="All",Матч Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="All",Матч Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="All",Матч Футбол 1
+http:\\45.11.139.43:8555\fut1\index.m3u8
+#EXTINF:-1 group-title="All",Матч Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="All",Футбол
+http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
+#EXTINF:-1 group-title="All",Fight_Box
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="All",Беларусь 5
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="All",Дикая Охота
+https://tinyurl.com/aleks-u-romki-2/2004/index.m3u8
+#EXTINF:-1 group-title="All",Дикая Рыбалка
+https://tinyurl.com/aleks-u-romki-2/9082/index.m3u8
+#EXTINF:-1 group-title="All",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="All",Охота и Рыбалка
+http://sansatplus.net:88/BAQLGHJIVO/PSTPMZHWMF/567436
+#EXTINF:-1 group-title="Romania",Super TV Ro
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Romania",Impact TV
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 group-title="Romania",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 group-title="Romania",Tv Plus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 group-title="Romania",Tele Botosani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="Romania",Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 group-title="Romania",Arad TV
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+#EXTINF:-1 group-title="Romania",TV SAT
+http://89.38.8.130:39443
+#EXTINF:-1 group-title="Romania",TV BUZAU
+http://78.96.33.89:8080
+#EXTINF:-1 group-title="Romania",Dotto TV
+https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 group-title="Romania",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro" group-title="Romania",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="Romania",Agro TV Romania
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title="Romania",B1
+https://tinyurl.com/aleks-u-romki-2/6994/index.m3u8
+#EXTINF:-1 group-title="Romania",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 group-title="Romania",Antena Stars
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="Romania",Romania TV
+https://tinyurl.com/aleks-u-romki-2/6959/index.m3u8
+#EXTINF:-1 group-title="Romania",Realitatea Plus Romania
+https://tinyurl.com/aleks-u-romki-2/6958/index.m3u8
+#EXTINF:-1 group-title="Romania",Euronews Romania
+https://p13.magicplaces.eu/euronewsrosd/tracks-v1a1/mono.m3u8?token=9c46a9145334b2b1e3c137f15f2ab1844444b17a-8efd566322dc81c05499f150fd81a8cf-1757755742-1757755442
+#EXTINF:-1 group-title="Romania",DIGI 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 group-title="Romania",Antena 1 Ro
+https://tinyurl.com/aleks-u-romki-2/7002/index.m3u8
+#EXTINF:-1 group-title="Romania",Antena 3
+https://tinyurl.com/aleks-u-romki-2/7003/index.m3u8
+#EXTINF:-1 group-title="Romania",TVR International
+https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+#EXTINF:-1 group-title="Romania",Prima TV RO
+https://serifos.cdn.dejacast.com/live/prima/prima.m3u8?from=1758088146&to=1758124146&session=t2n4CMrSmqjwz2Au&source=cms&token=ACddSVOYEvaUyDfidZSshR4FADc=
+#EXTINF:-1 group-title="Romania",MetropolaTV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Чижик
+https://tinyurl.com/aleks-u-romki-2/14034/index.m3u8
+#EXTINF:-1 group-title="unsorted",В гостях у сказки
+http:\\dmi3y-tv.ru\hls\CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:-1 group-title="unsorted",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="unsorted",Tv nord Balti
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Bizim Dalgamiz / Canal 5
+http://188.138.130.175:5004/
+#EXTINF:-1 group-title="unsorted",NTS Moldova
+http://5.56.77.9:50000
+#EXTINF:-1 group-title="unsorted",Еда ТВ
+https://tinyurl.com/aleks-u-romki-2/152/index.m3u8
+#EXTINF:-1 group-title="unsorted",Еда Премиум
+https://tinyurl.com/aleks-u-romki-2/918/index.m3u
+#EXTINF:-1 group-title="unsorted",Viju Premiere
+https://tinyurl.com/aleks-u-romki-2/5079/index.m3u8
+#EXTINF:-1 group-title="unsorted",Viju Comedy
+https://tinyurl.com/aleks-u-romki-2/200/index.m3u8
+#EXTINF:-1 group-title="unsorted",Большая Азия
+http://dmi3y-tv.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 group-title="unsorted",Zoopark
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="unsorted",Terra
+http://45.11.139.43:8555/terra/index.m3u8
+#EXTINF:-1 group-title="unsorted",История
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 group-title="unsorted",Travel and Adventure
+https://tinyurl.com/aleks-u-romki-2/9301/index.m3u8
+#EXTINF:-1 group-title="unsorted",National Geographic
+https://tinyurl.com/aleks-u-romki-2/14001/index.m3u8
+#EXTINF:-1 group-title="unsorted",Discovery
+http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/21432
+#EXTINF:-1 group-title="unsorted",Мосфильм Золотая Колекция
+http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="unsorted",Kino24
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="unsorted",Kinosvit
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 group-title="unsorted",Enter Film UA
+https://tinyurl.com/aleks-u-romki-2/933/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="unsorted",ТV1000
+https://tinyurl.com/aleks-u-romki-2/6387/index.m3u8
+#EXTINF:-1 group-title="unsorted",TV1000 Action
+https://tinyurl.com/aleks-u-romki-2/6386/index.m3u8
+#EXTINF:-1 group-title="unsorted",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="unsorted",Viju Megahit
+https://tinyurl.com/aleks-u-romki-2/201/index.m3u8
+#EXTINF:-1 group-title="unsorted",RT ДОК
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="unsorted",Моя Планета
+https://tinyurl.com/aleks-u-romki-2/117/index.m3u8
